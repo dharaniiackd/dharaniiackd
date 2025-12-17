@@ -1,0 +1,5 @@
+{
+  "name": "CyberSec Login & Strength Analyzer",
+  "description": "A secure, enterprise-grade password strength checker and visualization tool using SHA-256 hashing and real-time feedback.",
+  "requestFramePermissions": []
+}
